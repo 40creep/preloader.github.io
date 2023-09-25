@@ -15,7 +15,7 @@ window.addEventListener('load', function () {
 
         // Create three vertical buttons with different links
         const button1 = createButton('BODO', 'https://example.com/link1');
-        const button2 = createButton('ENGLISH', 'https://example.com/link2');
+        const button2 = createButton('ENGLISH', 'https://40creep.github.io/orbi.github.io/');
         const button3 = createButton('HINDI', 'https://example.com/link3');
 
         // Append the buttons to the popup container
